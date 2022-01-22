@@ -78,8 +78,7 @@ p {
 	font-weight: bold;
 	font-size: 1.25em;	
 	width: 100px;
-	float: right;
-	postion: relative;
+	float: right;	
 	margin-top: -1px;
 	margin-right: -1px;
 }
